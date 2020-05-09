@@ -1,0 +1,2 @@
+In this online dashboard, you can compare some stock prices with Nasdaq index using daily data. The data is updated each day. There is also a great tool to measure spillover effects (In mean and volatility) between the stock and index.
+These two spillovers show us how much stock A increases/decreases in response to increase and decrease in the Nasdaq index and vice versa. The spillover effects are calculated based on Vector-Autoregressive (VAR) model that mixed with GARCH model to get spillover in volatility.
